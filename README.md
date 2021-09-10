@@ -18,40 +18,17 @@ The launch date analysis demonstrated a strong spike for successful campaigns th
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/87042597/132779238-39e8d97d-eea8-4398-9413-afc34b5d5357.png)
 
 ### Analysis of Outcomes Based on Goals
-Based on the 
+The most successful campaigns in the plays subcategory had goals in the sub $5,000 range, with another spike in the $35,000 - $44,999 range. The client also expressed interest in plays from the GB region and was estimating £4,000 (~$5,500) for a goal and may want to reconsider that value based on these results. Chart below:
+![image](https://user-images.githubusercontent.com/87042597/132798798-b18647cb-cd2f-497b-8733-0149b8df5cde.png)
+
 ### Challenges and Difficulties Encountered
 
 ## Results
+There is a large increase in the number of successful goals launched in May, followed by June then July. This 3 month window would be the ideal time to start the campaign. 
+Campaigns starting in December had an almost 50% failure rate and would be the worst time to begin. 
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+The highest success rate based on goals occur under $15,000. The only other goals with an over 50% success rate were in the $35,000 - $49,999 range. 
 
-- What can you conclude about the Outcomes based on Goals?
+This specific data set is for all plays and the client may get a better idea of success rates if we were to further break it down by similar genres. 
 
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Further anaylsis could be to separate the data to the countries (US and GB) the client intends to stage their plays in. 
